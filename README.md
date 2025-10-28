@@ -1,8 +1,8 @@
 # My Homelab Setup
 
-Hardware
+## Hardware
 
-Server
+### Server
 
 **Minisforum MS-A (Proxmox)**
 -AMD Ryzen™ 9 9955HX,16C/32T\
