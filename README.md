@@ -4,7 +4,7 @@
 
 ### Server
 
-**Minisforum MS-A (Proxmox)**
+**Minisforum MS-A (Proxmox)**\
 \
 -AMD Ryzen™ 9 9955HX,16C/32T\
 -Dual DDR5-5600Mhz,up to 96GB\
